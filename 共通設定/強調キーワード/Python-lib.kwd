@@ -1,0 +1,17 @@
+﻿// Python-lib キーワード定義ファイル
+// CASE=False
+
+MIMEText
+__init__
+__main__
+__name__
+cls
+datetime
+encode
+login
+self
+send_message
+smtplib
+ssl
+strftime
+today
